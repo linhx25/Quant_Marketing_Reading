@@ -1,7 +1,7 @@
 # Quant_Marketing
 Collections for (quant) Marketing papers
 
-- Thanks to Avi Goldfarb's and Oded Netzer's course Syllabus
+- Many papers credit to [Avi Goldfarb](https://www.avigoldfarb.com/)'s and [Oded Netzer](http://www.columbia.edu/~on2110/)'s seminar
 - I will keep updating the paper list about Quant Marketing
 
 ## Table of Contents
