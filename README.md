@@ -2,7 +2,7 @@
 Collections for (quant) Marketing papers
 
 - Thanks to Avi Goldfarb's and Oded Netzer's course Syllabus
-
+- I will keep updating the paper list about Quant Marketing
 
 ## Table of Contents
 - [Quantitative Marketing](#quantitative-marketing)
