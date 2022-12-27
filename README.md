@@ -5,7 +5,7 @@ Collections for (quant) Marketing papers
 
 
 ## Table of Contents
-- [Quantitative Marketing](#survey-paper)
+- [Quantitative Marketing](#quantitative-marketing)
 - [Demand Estimation](#demand-estimation)
 - [Structural Models](#structural-models)
 
