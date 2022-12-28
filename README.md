@@ -29,7 +29,7 @@ Collections for (quant) Marketing papers
 ## Method: Field Experiments
 - [Field Experiments in Marketing](https://www.sciencedirect.com/science/article/pii/S2214658X16300010), Duncan Simetser (2015), Handbook of Economic Field Experiments
 - [Field Experiments in Marketing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2630209) Lambrecht, Anja, and Catherine Tucker. 2018. In Handbook of Marketing Analytics. Eds Natalie Mizik and Dominique Hanssens.
-- [Long-Run Effects of Promotion Depth on New versus Established Customers: Three Field Studies](https://dl.acm.org/doi/10.5555/2882794.2882796), Anderson, Eric and Duncan Simester (2004), Marketing Science
+- [Long-Run Effects of Promotion Depth on New versus Established Customers: Three Field Studies](https://www.kellogg.northwestern.edu/faculty/anderson_e/htm/personalpage_files/Papers/Long_Run_Effects_of_Promotion_Depth_on_New_versus_Established_Customers.pdf), Anderson, Eric and Duncan Simester (2004), Marketing Science
 - [Consumer Heterogeneity and Paid Search Effectiveness: A Largescale Field Experiment](https://faculty.haas.berkeley.edu/stadelis/BNT_ECMA_rev.pdf), Blake, Thomas, Chris Nosko, and Steven Tadelis (2015), Econometrica
 - [A Comparison of Approaches to Advertising Measurement: Evidence from Big Field Experiments at Facebook](https://pubsonline.informs.org/doi/abs/10.1287/mksc.2018.1135), Gordon, Brett, R., Florian Zettelmeyer, Neha Bhargava, and Dan Chapsky (2019), Marketing Science
 
