@@ -2,7 +2,7 @@
 Collections for (quant) Marketing papers
 
 - Many papers credit to [Avi Goldfarb](https://www.avigoldfarb.com/)'s and [Oded Netzer](http://www.columbia.edu/~on2110/)'s seminar
-- I will keep updating the paper list about Quant Marketing
+
 
 ## Table of Contents
 - [Research Prospective](#research-prospective)
@@ -41,3 +41,8 @@ Collections for (quant) Marketing papers
 - [An Incentive-Aligned Mechanism for Conjoint Analysis](https://journals.sagepub.com/doi/10.1509/jmkr.44.2.214) Ding, Min. 2007. Journal of Marketing Research
 - [Thirty Years of Conjoint Analysis: Reflections and Prospects](https://www.jstor.org/stable/25062702#metadata_info_tab_contents) Green, P.E., Krieger, A.M., and Wind, Y. 2001, Interfaces
 - [Fast Polyhedral Adaptive Conjoint Estimation](https://www.jstor.org/stable/4129742#metadata_info_tab_contents) Toubia, Olivier, Duncan I. Simester, John R. Hauser, and Ely Dahan. 2003. Marketing Science
+
+# Other readings
+- Here is another real-time reading [list](https://github.com/linhx25/Quant_Marketing_Reading/blob/main/most_recent.md), it is more random and by chornological order.
+- [Readings](https://github.com/linhx25/Consumer-Behavior/tree/main) of Consumer Behavioral Researech 
+
