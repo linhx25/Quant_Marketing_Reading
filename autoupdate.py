@@ -32,7 +32,7 @@ def generate_markdown_from_files(folder_path, markdown_path):
             md_file.write("\n")
 
 if __name__ == '__main__':
-    folder_path = './Quant_Marketing_Reading/~reading'
+    folder_path = '~reading'
     markdown_path = './most_recent.md'
     
     generate_markdown_from_files(folder_path, markdown_path)

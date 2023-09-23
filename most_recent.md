@@ -1,17 +1,21 @@
-20230914_GNN
-- NEURAL RELATIONAL INFERENCE WITH NODE-SPECIFIC INFORMATION
-- Variational Graph Auto-Encoders
-- Learnable Graph Convolutional Attention Networks
-- Deepwalk Online learning of social representations
-- Link Prediction Based on Graph Neural Networks
-
 20230829_Fairness
+- Controlling Fairness and Bias in Dynamic Learning-to-Rank
+- Perceptions of Price Unfairness Antecedents and Consequesnces
+- Toward Pareto Efficient Fairness-Utility Trade-off in Recommendation 
+- Fairness and Abstractions in Sociotechnical Systems
 - why people skip music
 - Discrimination through Image Selection by Job Advertisers on Facebook
 - Discrimination through Optimization- How Facebook’s Ad Delivery Can Lead to Biased Outcomes
 - Llama 2- Open Foundation and Fine-Tuned Chat Models
 - Fairness in Matching under Uncertainty
 - Shin Oblander JMP draft
+
+20230914_GNN
+- NEURAL RELATIONAL INFERENCE WITH NODE-SPECIFIC INFORMATION
+- Variational Graph Auto-Encoders
+- Learnable Graph Convolutional Attention Networks
+- Deepwalk Online learning of social representations
+- Link Prediction Based on Graph Neural Networks
 
 20230601_demand
 - Microeconometric models of consumer demand
