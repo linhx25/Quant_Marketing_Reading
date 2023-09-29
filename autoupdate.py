@@ -26,7 +26,7 @@ def generate_markdown_from_files(folder_path, markdown_path):
     # Write titles to markdown file
     with open(markdown_path, 'w') as md_file:
         for subfolder, titles in subfolder_papers.items():
-            md_file.write(f"{subfolder}\n")
+            md_file.write(f"### {subfolder}\n")
             for title in titles:
                 md_file.write(f"- {title}\n")
             md_file.write("\n")
