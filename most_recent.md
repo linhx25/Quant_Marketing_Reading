@@ -1,9 +1,12 @@
 ### 20230928_recommendationSys
+- When Fairness meets Bias- a Debiased Framework for Fairness aware Top-N Recommendation
+- Towards Robust Fairness-aware Recommendation
+- Recommending for a Multi-sided Marketplace A Multi-Objective Hierarchical Approach
 - Surrogate for Long-Term User Experience in Recommender Systems
 - RLAIF- Scaling Reinforcement Learning from Human Feedback with AI Feedback
-- Recommending for a Multi-sided Marketplace A Multi-Objective Hierarchical Approach
 
 ### 20230829_Fairness
+- graph_convolution_network_base
 - Perceptions of Price Unfairness Antecedents and Consequesnces
 - Controlling Fairness and Bias in Dynamic Learning-to-Rank
 - Toward Pareto Efficient Fairness-Utility Trade-off in Recommendation 
