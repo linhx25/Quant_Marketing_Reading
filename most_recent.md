@@ -1,56 +1,77 @@
+### ~reading
+- Syllabus_RSM_Avi
+
+### 20231024_exploration
+- where Consumers Diverge from Others- Identity Signaling and Product Domains
+- kahn-et-al-1986-measuring-variety-seeking-and-reinforcement-behaviors-using-panel-data
+- When to Trust Your Simulator- Dynamics-Aware Hybrid Offline-and-Online Reinforcement Learning
+- The Effects of Diversity in Algorithmic Recommendations on Digital Content Consumption- A Field Experiment
+- Robust On-Policy Sampling for Data-Efficient Policy Evaluation in Reinforcement Learning
+- Off-Policy Deep Reinforcement Learning without Exploration
+- Model-Based Reinforcement Learning with Nearly Tight Exploration Complexity Bounds
+- Doubly Robust Policy Evaluation and Learning
+- Counterfactual Reasoning and Learning Systems- The Example of Computational Advertising
+
+### 20231011_Fairness_Algo
+- Reducing Interference Bias in AB Tests of Ranking Algorithms
+- Disparate Impact of Artificial Intelligence Bias in Ridehailing Economy’s Price Discrimination Algorithms
+- Apparent Algorithmic Discrimination and Real-Time  Algorithmic Learnin
+- Algorithmic Bias An Empirical Study of Apparent Gender-based Discrimination in the Display of STEM Career Ads
+
 ### 20230928_recommendationSys
 - When Fairness meets Bias- a Debiased Framework for Fairness aware Top-N Recommendation
+- Values of User Exploration in Recommender Systems
 - Towards Robust Fairness-aware Recommendation
-- Recommending for a Multi-sided Marketplace A Multi-Objective Hierarchical Approach
 - Surrogate for Long-Term User Experience in Recommender Systems
+- Recommending for a Multi-sided Marketplace A Multi-Objective Hierarchical Approach
+- Recency Dropout for Recurrent Recommender Systems
 - RLAIF- Scaling Reinforcement Learning from Human Feedback with AI Feedback
-
-### 20230829_Fairness
-- graph_convolution_network_base
-- Perceptions of Price Unfairness Antecedents and Consequesnces
-- Controlling Fairness and Bias in Dynamic Learning-to-Rank
-- Toward Pareto Efficient Fairness-Utility Trade-off in Recommendation 
-- Fairness and Abstractions in Sociotechnical Systems
-- Discrimination through Optimization- How Facebook’s Ad Delivery Can Lead to Biased Outcomes
-- Fairness in Matching under Uncertainty
-- Shin Oblander JMP draft
-- why people skip music
-- Discrimination through Image Selection by Job Advertisers on Facebook
-- Llama 2- Open Foundation and Fine-Tuned Chat Models
+- How do successful scholars get their best research ideas
 
 ### 20230914_GNN
 - Variational Graph Auto-Encoders
-- Learnable Graph Convolutional Attention Networks
-- Link Prediction Based on Graph Neural Networks
 - NEURAL RELATIONAL INFERENCE WITH NODE-SPECIFIC INFORMATION
+- Link Prediction Based on Graph Neural Networks
+- Learnable Graph Convolutional Attention Networks
 - Deepwalk Online learning of social representations
 
+### 20230829_Fairness
+- why people skip music
+- graph_convolution_network_base
+- Toward Pareto Efficient Fairness-Utility Trade-off in Recommendation 
+- Shin Oblander JMP draft
+- Policy Optimization with Advantage Regularization for Long-Term Fairness in Decision Systems
+- Perceptions of Price Unfairness Antecedents and Consequesnces
+- Llama 2- Open Foundation and Fine-Tuned Chat Models
+- Fairness in Matching under Uncertainty
+- Fairness and Abstractions in Sociotechnical Systems
+- Discrimination through Optimization- How Facebook’s Ad Delivery Can Lead to Biased Outcomes
+- Discrimination through Image Selection by Job Advertisers on Facebook
+- Controlling Fairness and Bias in Dynamic Learning-to-Rank
+
 ### 20230801_MDP
-- LightGBM- A Highly Efficient Gradient Boosting Decision Tree
+- Using Big Data to Model Time-Varying Effects for Marketing Resource (Re)Allocation
 - Timeseries in MKT
+- Morphing for Consumer Dynamics- Bandits Meet Hidden Markov Models
+- Modelling Retail Customer Behavior at Merrill Lynch
+- Modeling Marketing Dynamics by Time Series Econometrics
+- MODELING CUSTOMER RELATIONSHIPS AS MARKOV CHAINS
+- LightGBM- A Highly Efficient Gradient Boosting Decision Tree
 - Language Models are Few-Shot Learners
+- Improving Language Understanding by Generative Pre-Training
+- Herding Learning and Incentives for Online Reviews
+- Effects of Word-of-Mouth Versus Traditional Marketing Findings from an Internet Social Networking Site
+- Dynamic discrete choice structural models- A survey
+- Dynamic Allocation of Pharmaceutical Detailing and Sampling for Long-Term Profitability
+- Comments on the Origin and Application of Markov Decision Processes
 - Attention mechanisms in computer vision A survey
 - A Survey on Evaluation of Large Language Models
 - A Joint Model of Usage and Churn in Contractual Settings
-- MODELING CUSTOMER RELATIONSHIPS AS MARKOV CHAINS
-- Comments on the Origin and Application of Markov Decision Processes
-- Modelling Retail Customer Behavior at Merrill Lynch
-- Improving Language Understanding by Generative Pre-Training
-- Modeling Marketing Dynamics by Time Series Econometrics
-- Morphing for Consumer Dynamics- Bandits Meet Hidden Markov Models
-- Using Big Data to Model Time-Varying Effects for Marketing Resource (Re)Allocation
-- Effects of Word-of-Mouth Versus Traditional Marketing Findings from an Internet Social Networking Site
 - A General Survey on Attention Mechanisms in Deep Learning
-- Dynamic Allocation of Pharmaceutical Detailing and Sampling for Long-Term Profitability
-- Herding Learning and Incentives for Online Reviews
-- Dynamic discrete choice structural models- A survey
 
 ### 20230601_demand
 - Microeconometric models of consumer demand
 - Assessing Consumer Demand with Noisy Neural Measurements
-
-### ~reading
-- Syllabus_RSM_Avi
 
 ### 20230314_creativity
 - Toubia, Berger and Eliashberg 2021

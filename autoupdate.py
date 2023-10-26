@@ -6,7 +6,7 @@ def generate_markdown_from_files(folder_path, markdown_path):
     pdf_files = glob.glob(os.path.join(folder_path, '**/*.pdf'), recursive=True)
 
     # Sort files by creation time
-    sorted_files = sorted(pdf_files, key=os.path.getctime, reverse=True)
+    sorted_files = sorted(pdf_files, reverse=True)
 
     # Initialize an empty dictionary to hold sub-folder titles and their paper titles
     subfolder_papers = {}
