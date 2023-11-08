@@ -1,12 +1,19 @@
 ### ~reading
 - Syllabus_RSM_Avi
 
+### 20231101_hallucination
+- Secrets of RLHF in Large Language Models Part I- PPO
+- On the Creativity of Large Language Models
+- On Characterizations of Large Language Models and Creativity Evaluation
+- Is RLHF More Difficult than Standard RL
+
 ### 20231024_exploration
 - where Consumers Diverge from Others- Identity Signaling and Product Domains
 - kahn-et-al-1986-measuring-variety-seeking-and-reinforcement-behaviors-using-panel-data
 - When to Trust Your Simulator- Dynamics-Aware Hybrid Offline-and-Online Reinforcement Learning
 - The Effects of Diversity in Algorithmic Recommendations on Digital Content Consumption- A Field Experiment
 - Robust On-Policy Sampling for Data-Efficient Policy Evaluation in Reinforcement Learning
+- Offline Reinforcement Learning- Tutorial, Review, and Perspectives on Open Problems
 - Off-Policy Deep Reinforcement Learning without Exploration
 - Model-Based Reinforcement Learning with Nearly Tight Exploration Complexity Bounds
 - Doubly Robust Policy Evaluation and Learning
@@ -23,6 +30,7 @@
 - Values of User Exploration in Recommender Systems
 - Towards Robust Fairness-aware Recommendation
 - Surrogate for Long-Term User Experience in Recommender Systems
+- Surrogate for Long-Term User Experience in Recommender Systems 2023-11-01 16_17_20
 - Recommending for a Multi-sided Marketplace A Multi-Objective Hierarchical Approach
 - Recency Dropout for Recurrent Recommender Systems
 - RLAIF- Scaling Reinforcement Learning from Human Feedback with AI Feedback
@@ -52,6 +60,7 @@
 ### 20230801_MDP
 - Using Big Data to Model Time-Varying Effects for Marketing Resource (Re)Allocation
 - Timeseries in MKT
+- Sparse Sinkhorn Attention
 - Morphing for Consumer Dynamics- Bandits Meet Hidden Markov Models
 - Modelling Retail Customer Behavior at Merrill Lynch
 - Modeling Marketing Dynamics by Time Series Econometrics
