@@ -1,8 +1,19 @@
 ### ~reading
 - Syllabus_RSM_Avi
 
+### 20231129_cb_fariness
+- xia-et-al-2004-the-price-is-unfair-a-conceptual-framework-of-price-fairness-perceptions
+- liu-et-al-2023-algorithm-aversion-evidence-from-ridesharing-drivers
+- annotated-Proposal_Hengxu
+- Dynamic Pricing and Consumer Fairness Perceptions
+- Consumer Perceptions of Price (Un)Fairness
+- Algorithms propagate gender bias in the marketplace with consumers cooperation
+
 ### 20231121_RLHF
 - malika_draft_jmp
+- Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback
+- Secrets of RLHF in Large Language Models Part I- PPO
+- Is RLHF More Difficult than Standard RL
 - Contrastive Preference Learning- Learning from Human Feedback without RL
 - A Course in Reinforcement Learning
 
@@ -12,16 +23,18 @@
 - Varian-ModelSales-1980
 
 ### 20231101_hallucination
-- Secrets of RLHF in Large Language Models Part I- PPO
+- TruthfulQA- Measuring How Models Mimic Human Falsehoods
 - On the Creativity of Large Language Models
 - On Characterizations of Large Language Models and Creativity Evaluation
-- Is RLHF More Difficult than Standard RL
+- Llama 2- Open Foundation and Fine-Tuned Chat Models
 - Inspecting and Editing Knowledge Representations in Language Models
+- Art or Artifice Large Language Models and the False Promise of Creativity
 
 ### 20231024_exploration
 - where Consumers Diverge from Others- Identity Signaling and Product Domains
 - kahn-et-al-1986-measuring-variety-seeking-and-reinforcement-behaviors-using-panel-data
 - When to Trust Your Simulator- Dynamics-Aware Hybrid Offline-and-Online Reinforcement Learning
+- What Out-of-distribution Is and Is Not
 - The Effects of Diversity in Algorithmic Recommendations on Digital Content Consumption- A Field Experiment
 - Robust On-Policy Sampling for Data-Efficient Policy Evaluation in Reinforcement Learning
 - Offline Reinforcement Learning- Tutorial, Review, and Perspectives on Open Problems
@@ -37,9 +50,11 @@
 - Algorithmic Bias An Empirical Study of Apparent Gender-based Discrimination in the Display of STEM Career Ads
 
 ### 20230928_recommendationSys
+- why people skip music
 - When Fairness meets Bias- a Debiased Framework for Fairness aware Top-N Recommendation
 - Values of User Exploration in Recommender Systems
 - Towards Robust Fairness-aware Recommendation
+- Towards Open-World Recommendation- An Inductive Model-based Collaborative Filtering Approach
 - Surrogate for Long-Term User Experience in Recommender Systems
 - Surrogate for Long-Term User Experience in Recommender Systems 2023-11-01 16_17_20
 - Recommending for a Multi-sided Marketplace A Multi-Objective Hierarchical Approach
@@ -55,13 +70,11 @@
 - Deepwalk Online learning of social representations
 
 ### 20230829_Fairness
-- why people skip music
 - graph_convolution_network_base
 - Toward Pareto Efficient Fairness-Utility Trade-off in Recommendation 
 - Shin Oblander JMP draft
 - Policy Optimization with Advantage Regularization for Long-Term Fairness in Decision Systems
 - Perceptions of Price Unfairness Antecedents and Consequesnces
-- Llama 2- Open Foundation and Fine-Tuned Chat Models
 - Fairness in Matching under Uncertainty
 - Fairness and Abstractions in Sociotechnical Systems
 - Discrimination through Optimization- How Facebook’s Ad Delivery Can Lead to Biased Outcomes
