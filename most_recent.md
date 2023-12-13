@@ -1,10 +1,15 @@
 ### ~reading
 - Syllabus_RSM_Avi
 
+### 20231212_LLM
+- Deep Learning-based Estimation of Dynamic Discrete Choice Models with an Application to the Expansion of Walmart
+- DECODINGTRUST- A Comprehensive Assessment of Trustworthiness in GPT Models
+
 ### 20231129_cb_fariness
 - xia-et-al-2004-the-price-is-unfair-a-conceptual-framework-of-price-fairness-perceptions
 - liu-et-al-2023-algorithm-aversion-evidence-from-ridesharing-drivers
-- annotated-Proposal_Hengxu
+- Perceptions of Price Unfairness Antecedents and Consequesnces
+- Fairness as a Constraint on Profit Seeking- Entitlements in the Market
 - Dynamic Pricing and Consumer Fairness Perceptions
 - Consumer Perceptions of Price (Un)Fairness
 - Algorithms propagate gender bias in the marketplace with consumers cooperation
@@ -74,9 +79,9 @@
 - Toward Pareto Efficient Fairness-Utility Trade-off in Recommendation 
 - Shin Oblander JMP draft
 - Policy Optimization with Advantage Regularization for Long-Term Fairness in Decision Systems
-- Perceptions of Price Unfairness Antecedents and Consequesnces
 - Fairness in Matching under Uncertainty
 - Fairness and Abstractions in Sociotechnical Systems
+- Disentangling and Operationalizing AI Fairness at LinkedIn
 - Discrimination through Optimization- How Facebook’s Ad Delivery Can Lead to Biased Outcomes
 - Discrimination through Image Selection by Job Advertisers on Facebook
 - Controlling Fairness and Bias in Dynamic Learning-to-Rank
