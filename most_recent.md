@@ -2,8 +2,13 @@
 - Syllabus_RSM_Avi
 
 ### 20231212_LLM
+- coauthor-Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities
+- Stanford_Speech and Language Processing
+- Learning Decomposed Spatial Relations for Multi-Variate Time-Series Modeling
 - Deep Learning-based Estimation of Dynamic Discrete Choice Models with an Application to the Expansion of Walmart
 - DECODINGTRUST- A Comprehensive Assessment of Trustworthiness in GPT Models
+- Alleviating Hallucinations of Large Language Models through Induced Hallucinations
+- A Survey on Hallucination in Large Language Models
 
 ### 20231129_cb_fariness
 - xia-et-al-2004-the-price-is-unfair-a-conceptual-framework-of-price-fairness-perceptions
