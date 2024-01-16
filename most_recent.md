@@ -1,8 +1,14 @@
 ### ~reading
 - Syllabus_RSM_Avi
 
+### 20240115_rlhf
+- The Challenge of Using LLMs to Simulate Human Behavior- A Causal Inference Perspective
+- Q-Transformer- Scalable Offline Reinforcement Learning via Autoregressive Q-Functions
+- Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
+
 ### 20231212_LLM
 - coauthor-Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities
+- _The Power of Scale for Parameter-Efficient Prompt Tuning
 - Stanford_Speech and Language Processing
 - Learning Decomposed Spatial Relations for Multi-Variate Time-Series Modeling
 - Deep Learning-based Estimation of Dynamic Discrete Choice Models with an Application to the Expansion of Walmart
