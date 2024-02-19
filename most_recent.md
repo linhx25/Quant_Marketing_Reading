@@ -1,14 +1,31 @@
 ### ~reading
 - Syllabus_RSM_Avi
 
+### 20240217_rlhf_and_causal_inference
+- Policy learning with observational data
+- Conservative Q-Learning for Offline Reinforcement Learning
+- Choice Models and Permutation Invariance- Demand Estimation in Differentiated Products Markets
+
+### 20240125_creativityLLM
+- llm-language-model-preprint3-1
+- When ChatGPT is gone- Creativity reverts and homogeneity persists
+- Training language models to follow instructions with human feedback
+- Measuring Divergent Thinking Originality With Human Raters and TextMining Models- A Psychometric Comparison of Methods
+- Computational Creativity and Music Generation Systems
+
+### 20240117_structural
+- Structural Econometric Modeling in Industrial Organization and Quantitative Marketing_ Theory and Applications (2023)
+
 ### 20240115_rlhf
 - The Challenge of Using LLMs to Simulate Human Behavior- A Causal Inference Perspective
 - Q-Transformer- Scalable Offline Reinforcement Learning via Autoregressive Q-Functions
+- Direct Preference Optimization- Your Language Model is Secretly a Reward Model
 - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
 
 ### 20231212_LLM
 - coauthor-Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities
 - _The Power of Scale for Parameter-Efficient Prompt Tuning
+- TRUSTLLM- TRUSTWORTHINESS IN LARGE LANGUAGE MODELS
 - Stanford_Speech and Language Processing
 - Learning Decomposed Spatial Relations for Multi-Variate Time-Series Modeling
 - Deep Learning-based Estimation of Dynamic Discrete Choice Models with an Application to the Expansion of Walmart
