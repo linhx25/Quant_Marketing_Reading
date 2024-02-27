@@ -1,10 +1,16 @@
 ### ~reading
 - Syllabus_RSM_Avi
 
+### 20240222_fin_decision_making
+- Consumer Financial Decision Making-Where We ve Been and Where We -re Going
+
 ### 20240217_rlhf_and_causal_inference
 - Policy learning with observational data
+- Do Transformers Really Perform Bad for Graph Representation
 - Conservative Q-Learning for Offline Reinforcement Learning
 - Choice Models and Permutation Invariance- Demand Estimation in Differentiated Products Markets
+- Causal Transformer for Estimating Counterfactual Outcomes
+- BENCHMARKS FOR DEEP OFF-POLICY EVALUATION
 
 ### 20240125_creativityLLM
 - llm-language-model-preprint3-1
@@ -15,12 +21,6 @@
 
 ### 20240117_structural
 - Structural Econometric Modeling in Industrial Organization and Quantitative Marketing_ Theory and Applications (2023)
-
-### 20240115_rlhf
-- The Challenge of Using LLMs to Simulate Human Behavior- A Causal Inference Perspective
-- Q-Transformer- Scalable Offline Reinforcement Learning via Autoregressive Q-Functions
-- Direct Preference Optimization- Your Language Model is Secretly a Reward Model
-- Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
 
 ### 20231212_LLM
 - coauthor-Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities
@@ -45,9 +45,15 @@
 ### 20231121_RLHF
 - malika_draft_jmp
 - Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback
+- The Challenge of Using LLMs to Simulate Human Behavior- A Causal Inference Perspective
 - Secrets of RLHF in Large Language Models Part I- PPO
+- Q-Transformer- Scalable Offline Reinforcement Learning via Autoregressive Q-Functions
 - Is RLHF More Difficult than Standard RL
+- Inverse Reinforcement Learning with Conditional Choice Probabilities
+- Direct Preference Optimization- Your Language Model is Secretly a Reward Model
 - Contrastive Preference Learning- Learning from Human Feedback without RL
+- Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
+- Better Planning with Transformers via Search Dynamics Bootstrapping
 - A Course in Reinforcement Learning
 
 ### 20231115_consumersearch
