@@ -32,6 +32,9 @@
 - DECODINGTRUST- A Comprehensive Assessment of Trustworthiness in GPT Models
 - Alleviating Hallucinations of Large Language Models through Induced Hallucinations
 - A Survey on Hallucination in Large Language Models
+- RQ: can GPT simulate human behavior?
+    - heterogeneity / GPT generate poplulation average? (compare to Prolific?)
+    - editing LLM: edit prompt inputs / GPT output only without changing the LLM
 
 ### 20231129_cb_fariness
 - xia-et-al-2004-the-price-is-unfair-a-conceptual-framework-of-price-fairness-perceptions
