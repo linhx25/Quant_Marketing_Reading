@@ -1,40 +1,45 @@
 ### ~reading
 - Syllabus_RSM_Avi
 
+### 20240308_diffusion
+- Neural Network Diffusion
+
 ### 20240222_fin_decision_making
 - Consumer Financial Decision Making-Where We ve Been and Where We -re Going
 
 ### 20240217_rlhf_and_causal_inference
 - Policy learning with observational data
+- Optimizing Language Models for Human Preferences is a Causal Inference Problem
 - Do Transformers Really Perform Bad for Graph Representation
 - Conservative Q-Learning for Offline Reinforcement Learning
 - Choice Models and Permutation Invariance- Demand Estimation in Differentiated Products Markets
 - Causal Transformer for Estimating Counterfactual Outcomes
+- CAUSAL ESTIMATION FOR TEXT DATA WITH (APPARENT) OVERLAP VIOLATIONS
 - BENCHMARKS FOR DEEP OFF-POLICY EVALUATION
 
 ### 20240125_creativityLLM
-- llm-language-model-preprint3-1
 - When ChatGPT is gone- Creativity reverts and homogeneity persists
 - Training language models to follow instructions with human feedback
 - Measuring Divergent Thinking Originality With Human Raters and TextMining Models- A Psychometric Comparison of Methods
+- DOES WRITING WITH LANGUAGE MODELS REDUCE CONTENT DIVERSITY
 - Computational Creativity and Music Generation Systems
+- Beyond semantic distance- Automated scoring of divergent thinking greatly improves with large language models 
 
 ### 20240117_structural
 - Structural Econometric Modeling in Industrial Organization and Quantitative Marketing_ Theory and Applications (2023)
 
 ### 20231212_LLM
 - coauthor-Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities
-- _The Power of Scale for Parameter-Efficient Prompt Tuning
+- The Power of Scale for Parameter-Efficient Prompt Tuning
 - TRUSTLLM- TRUSTWORTHINESS IN LARGE LANGUAGE MODELS
 - Stanford_Speech and Language Processing
 - Learning Decomposed Spatial Relations for Multi-Variate Time-Series Modeling
+- LORA- LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS
 - Deep Learning-based Estimation of Dynamic Discrete Choice Models with an Application to the Expansion of Walmart
 - DECODINGTRUST- A Comprehensive Assessment of Trustworthiness in GPT Models
+- Can LLMs Capture Human Preferences
 - Alleviating Hallucinations of Large Language Models through Induced Hallucinations
 - A Survey on Hallucination in Large Language Models
-- RQ: can GPT simulate human behavior?
-    - heterogeneity / GPT generate poplulation average? (compare to Prolific?)
-    - editing LLM: edit prompt inputs / GPT output only without changing the LLM
 
 ### 20231129_cb_fariness
 - xia-et-al-2004-the-price-is-unfair-a-conceptual-framework-of-price-fairness-perceptions
@@ -50,13 +55,18 @@
 - Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback
 - The Challenge of Using LLMs to Simulate Human Behavior- A Causal Inference Perspective
 - Secrets of RLHF in Large Language Models Part I- PPO
+- RLPROMPT- Optimizing Discrete Text Prompts with Reinforcement Learning
 - Q-Transformer- Scalable Offline Reinforcement Learning via Autoregressive Q-Functions
+- Policy Optimization in RLHF- The Impact of Out-of-preference Data
 - Is RLHF More Difficult than Standard RL
 - Inverse Reinforcement Learning with Conditional Choice Probabilities
 - Direct Preference Optimization- Your Language Model is Secretly a Reward Model
+- Defining and Characterizing Reward Hacking
 - Contrastive Preference Learning- Learning from Human Feedback without RL
 - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
 - Better Planning with Transformers via Search Dynamics Bootstrapping
+- A note on DPO with noisy preferences & relationship to IPO
+- A General Theoretical Paradigm to Understand Learning from Human Preferences
 - A Course in Reinforcement Learning
 
 ### 20231115_consumersearch
@@ -102,6 +112,7 @@
 - Recommending for a Multi-sided Marketplace A Multi-Objective Hierarchical Approach
 - Recency Dropout for Recurrent Recommender Systems
 - RLAIF- Scaling Reinforcement Learning from Human Feedback with AI Feedback
+- LearningtoRankfor InformationRetrieval
 - How do successful scholars get their best research ideas
 
 ### 20230914_GNN
@@ -149,8 +160,14 @@
 - Assessing Consumer Demand with Noisy Neural Measurements
 
 ### 20230314_creativity
+- What can quantitative measures of semantic distance tell us about creativity
 - Toubia, Berger and Eliashberg 2021
 - Toubia 2021
+- The Cambridge Handbook of the Neuroscience of Creativity-Cambridge University Press (2018)
+- Semantic Distance- An Automated Measure of Creativity That Is Novel and Appropriate
 - Idea Generation Creativity and Prototypicality
 - Extracting Features of Entertainment Products Guided LDA
+- Can AI Help in Ideation- A Theory-Based Model for Idea Screening in Crowdsourcing Contests
+- Automating creativity assessment with SemDis - An open platform for computing semantic distance
+- Assessing Associative Distance Among Ideas Elicited by Tests of Divergent Thinking
 
