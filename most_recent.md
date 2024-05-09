@@ -1,6 +1,17 @@
 ### ~reading
 - Syllabus_RSM_Avi
 
+### 20240509_directionPreferenceOptimization
+- Understanding Contrastive Learning via Distributionally Robust Optimization
+- RLPROMPT- Optimizing Discrete Text Prompts with Reinforcement Learning
+- Iterative Preference Learning from Human Feedback- Bridging Theory and Practice for RLHF under KL-Constraint
+- Is DPO Superior to PPO for LLM Alignment- A Comprehensive Study
+- From r to Q∗ - Your Language Model is Secretly a Q-Function
+- Distributionally Robust Optimization- A Review
+- Direct Preference Optimization- Your Language Model is Secretly a Reward Model
+- A note on DPO with noisy preferences & relationship to IPO
+- A General Theoretical Paradigm to Understand Learning from Human Preferences
+
 ### 20240308_diffusion
 - Neural Network Diffusion
 
@@ -19,6 +30,7 @@
 
 ### 20240125_creativityLLM
 - When ChatGPT is gone- Creativity reverts and homogeneity persists
+- Uncertainty in Language Models- Assessment through Rank-Calibration
 - Training language models to follow instructions with human feedback
 - Measuring Divergent Thinking Originality With Human Raters and TextMining Models- A Psychometric Comparison of Methods
 - DOES WRITING WITH LANGUAGE MODELS REDUCE CONTENT DIVERSITY
@@ -27,6 +39,10 @@
 
 ### 20240117_structural
 - Structural Econometric Modeling in Industrial Organization and Quantitative Marketing_ Theory and Applications (2023)
+- Nonparametric Estimation of Habitual Brand Loyalty
+- Estimating Parameters of Structural Models Using Neural Networks
+- Deep Neural Networks for Estimation and Inference
+- Causal Interpretation of Structural IV Estimands
 
 ### 20231212_LLM
 - coauthor-Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities
@@ -55,18 +71,16 @@
 - Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback
 - The Challenge of Using LLMs to Simulate Human Behavior- A Causal Inference Perspective
 - Secrets of RLHF in Large Language Models Part I- PPO
-- RLPROMPT- Optimizing Discrete Text Prompts with Reinforcement Learning
+- STATISTICAL REJECTION SAMPLING IMPROVES PREFERENCE OPTIMIZATION
 - Q-Transformer- Scalable Offline Reinforcement Learning via Autoregressive Q-Functions
 - Policy Optimization in RLHF- The Impact of Out-of-preference Data
 - Is RLHF More Difficult than Standard RL
 - Inverse Reinforcement Learning with Conditional Choice Probabilities
-- Direct Preference Optimization- Your Language Model is Secretly a Reward Model
 - Defining and Characterizing Reward Hacking
+- Deep reinforcement learning from human preferences
 - Contrastive Preference Learning- Learning from Human Feedback without RL
 - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
 - Better Planning with Transformers via Search Dynamics Bootstrapping
-- A note on DPO with noisy preferences & relationship to IPO
-- A General Theoretical Paradigm to Understand Learning from Human Preferences
 - A Course in Reinforcement Learning
 
 ### 20231115_consumersearch
