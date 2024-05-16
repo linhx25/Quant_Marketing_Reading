@@ -1,13 +1,26 @@
 ### ~reading
 - Syllabus_RSM_Avi
 
-### 20240509_directionPreferenceOptimization
+### 20240513_seachQuery
+- eCeLLM- Generalizing Large Language Models for E-commerce from Large-scale, High-quality Instruction Data
+- Large Language Model based Long-tail Query Rewriting in Taobao Search
+
+### 20240512_ERM_DRO
+- UNDERSTANDING WHY GENERALIZED REWEIGHTING DOES NOT IMPROVE OVER ERM
+- UNDERSTANDING THE ROLE OF IMPORTANCE WEIGHTING FOR DEEP LEARNING
+- Kullback-Leibler Divergence Constrained Distributionally Robust Optimization
+- In Search of Lost Domain Generalization
+
+### 20240509_DPO
 - Understanding Contrastive Learning via Distributionally Robust Optimization
+- STATISTICAL REJECTION SAMPLING IMPROVES PREFERENCE OPTIMIZATION
+- SLiC-HF- Sequence Likelihood Calibration with Human Feedback
 - RLPROMPT- Optimizing Discrete Text Prompts with Reinforcement Learning
+- Optimizing Language Models for Human Preferences is a Causal Inference Problem
 - Iterative Preference Learning from Human Feedback- Bridging Theory and Practice for RLHF under KL-Constraint
 - Is DPO Superior to PPO for LLM Alignment- A Comprehensive Study
+- Generalized Preference Optimization- A Unified Approach to Offline Alignment
 - From r to Q∗ - Your Language Model is Secretly a Q-Function
-- Distributionally Robust Optimization- A Review
 - Direct Preference Optimization- Your Language Model is Secretly a Reward Model
 - A note on DPO with noisy preferences & relationship to IPO
 - A General Theoretical Paradigm to Understand Learning from Human Preferences
@@ -20,7 +33,7 @@
 
 ### 20240217_rlhf_and_causal_inference
 - Policy learning with observational data
-- Optimizing Language Models for Human Preferences is a Causal Inference Problem
+- Large Language Models and Causal Inference in Collaboration- A Comprehensive Survey
 - Do Transformers Really Perform Bad for Graph Representation
 - Conservative Q-Learning for Offline Reinforcement Learning
 - Choice Models and Permutation Invariance- Demand Estimation in Differentiated Products Markets
@@ -71,7 +84,6 @@
 - Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback
 - The Challenge of Using LLMs to Simulate Human Behavior- A Causal Inference Perspective
 - Secrets of RLHF in Large Language Models Part I- PPO
-- STATISTICAL REJECTION SAMPLING IMPROVES PREFERENCE OPTIMIZATION
 - Q-Transformer- Scalable Offline Reinforcement Learning via Autoregressive Q-Functions
 - Policy Optimization in RLHF- The Impact of Out-of-preference Data
 - Is RLHF More Difficult than Standard RL
