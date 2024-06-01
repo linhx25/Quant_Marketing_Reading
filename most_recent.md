@@ -1,6 +1,17 @@
 ### ~reading
 - Syllabus_RSM_Avi
 
+### 20240601_bayesian
+- dew-et-al-2019-modeling-dynamic-heterogeneity-using-gaussian-processes
+
+### 20240527_VIT
+- vit
+- resnet
+- WHEN VISION TRANSFORMERS OUTPERFORM RESNETS WITHOUT PRE-TRAINING OR STRONG DATA AUGMENTATIONS
+- Do Vision Transformers See Like Convolutional Neural Networks
+- ConvNets Match Vision Transformers at Scale
+- Are Transformers More Robust Than CNNs
+
 ### 20240513_seachQuery
 - eCeLLM- Generalizing Large Language Models for E-commerce from Large-scale, High-quality Instruction Data
 - Large Language Model based Long-tail Query Rewriting in Taobao Search
@@ -53,6 +64,7 @@
 ### 20240117_structural
 - Structural Econometric Modeling in Industrial Organization and Quantitative Marketing_ Theory and Applications (2023)
 - Nonparametric Estimation of Habitual Brand Loyalty
+- Handbook of the Economics of Marketing_ Marketing and Economics-North-Holland (2019)
 - Estimating Parameters of Structural Models Using Neural Networks
 - Deep Neural Networks for Estimation and Inference
 - Causal Interpretation of Structural IV Estimands
@@ -127,7 +139,7 @@
 - Apparent Algorithmic Discrimination and Real-Time  Algorithmic Learnin
 - Algorithmic Bias An Empirical Study of Apparent Gender-based Discrimination in the Display of STEM Career Ads
 
-### 20230928_recommendationSys
+### 20230928_recSys
 - why people skip music
 - When Fairness meets Bias- a Debiased Framework for Fairness aware Top-N Recommendation
 - Values of User Exploration in Recommender Systems
@@ -140,6 +152,7 @@
 - RLAIF- Scaling Reinforcement Learning from Human Feedback with AI Feedback
 - LearningtoRankfor InformationRetrieval
 - How do successful scholars get their best research ideas
+- Deep Neural Networks for YouTube Recommendations
 
 ### 20230914_GNN
 - Variational Graph Auto-Encoders
